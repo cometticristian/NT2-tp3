@@ -4,7 +4,6 @@ new Vue({
         saludJugador: 100,
         saludMonstruo: 100,
         hayUnaPartidaEnJuego: false,
-        listaEventos: [],
         turnos: [], //es para registrar los eventos de la partida
         esJugador: false,
         rangoAtaque: [3, 10],
